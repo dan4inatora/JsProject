@@ -15,4 +15,4 @@
    NodeJs, ExpressJs, HTML5, CSS3, Socket.io, Pixijs(for animations)
    
 ## Partners
-   The people working on this - Jordan Tolev(71775), Nikolai Zaharov()
+   The people working on this - Jordan Tolev(71775), Nikolai Zaharov(62149)
